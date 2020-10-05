@@ -12,6 +12,8 @@ TradingView Scraper
 <h3> This bot uses Selenium to make the get requests then passes the html file to the scraper which then scrapes all the data.<br>
 The scraper then returns the results in a json like format of list, with each element of list being a dictionary. 
 
+<h2 style ="color: red">To download the selenium driver, visit <a href = "https://chromedriver.chromium.org/"> HERE</a></h2>
+
 
 </h3>
 
